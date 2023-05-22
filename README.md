@@ -11,4 +11,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Musician.
 
-<!-- Actual text -->
+<!-- Tech Stack -->
+
+### Tech Stack
+
+- Python
+- HTML
+- CSS
+- php
+- Javascript
+- C
