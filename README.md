@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**HTClaus/HTClaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--A readme for github -->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a few projects, including a website, and a few other things.
+- 🌱 I’m currently learning Python, HTML, CSS, and Javascript.
+- 👯 I’m looking to collaborate on anything, really.
+- 🤔 I’m looking for help with nothing, really.
+- 💬 Ask me about anything, really.
+- 📫 How to reach me: [Email](mailto:kouoiclovis@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a Musician.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Actual text -->
