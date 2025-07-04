@@ -96,7 +96,7 @@ Here's your complete GitHub profile README.md file ready to copy and paste:
 
 <div>[
 
-](mailto:your-email@example.com)
+](mailto:clovis.kouoi@supinfo.com)
 [
 
 ](https://github.com/HTClaus)
@@ -110,20 +110,8 @@ Here's your complete GitHub profile README.md file ready to copy and paste:
 **Thanks for visiting! Feel free to reach out - I'm always up for a good conversation! 🚀**
 
 
-
-
-
 </div>```plaintext
 
-**Instructions:**
-1. Copy the entire markdown code above
-2. Go to your GitHub profile repository (usually named the same as your username)
-3. Edit the README.md file
-4. Replace all content with the code above
-5. Update `your-email@example.com` with your actual email address
-6. Commit the changes
-
-Your GitHub profile will now have a much more attractive and professional appearance! 🎉
 
 <Actions>
   <Action name="Customize colors and theme" description="Change the color scheme and theme of the badges and stats" />
