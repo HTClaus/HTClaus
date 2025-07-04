@@ -28,10 +28,6 @@ ask_me_about: Anything, really! I love good conversations
 - 🤝 **Looking to collaborate on:** Anything interesting - I'm all ears!
 - 💬 **Need help with:** Everything! Always eager to learn
 - 🎯 **Ask me about:** Music, coding, or just say hi!
-```
-
-
-
 
 ## ️ Tech Stack
 
@@ -105,6 +101,13 @@ ask_me_about: Anything, really! I love good conversations
 *"The best way to predict the future is to create it."* - Peter Drucker
 
 **Thanks for visiting! Feel free to reach out - I'm always up for a good conversation! 🚀**
+
+```
+
+
+
+
+
 
 
 </div>```plaintext
