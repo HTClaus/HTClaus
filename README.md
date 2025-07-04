@@ -21,12 +21,6 @@ collaboration: Always open to new opportunities
 help_needed: Pretty much everything - let's learn together!
 ask_me_about: Anything, really! I love good conversations
 
-Here's your complete GitHub profile README.md file ready to copy and paste:
-
-```markdown
-...
-```
-
 ## What I'm Up To
 
 - 🌐 **Currently working on:** A few exciting projects including a website and other cool stuff
@@ -34,6 +28,9 @@ Here's your complete GitHub profile README.md file ready to copy and paste:
 - 🤝 **Looking to collaborate on:** Anything interesting - I'm all ears!
 - 💬 **Need help with:** Everything! Always eager to learn
 - 🎯 **Ask me about:** Music, coding, or just say hi!
+```
+
+
 
 
 ## ️ Tech Stack
