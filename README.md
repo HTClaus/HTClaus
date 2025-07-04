@@ -31,21 +31,6 @@ ask_me_about: Anything, really! I love good conversations
 
 
 
-```
-I can see you've already implemented a great start! Let me help you develop it further and make it even more attractive. Here's an enhanced version that builds on what you have:
-
-```markdown
-...
-```
-
-## What I'm Up To
-
-- 🌐 **Currently working on:** A few exciting projects including a website and other cool stuff
-- 📚 **Learning:** Python, HTML, CSS, JavaScript, and React
-- 🤝 **Looking to collaborate on:** Anything interesting - I'm all ears!
-- 💬 **Need help with:** Everything! Always eager to learn
-- 🎯 **Ask me about:** Music, coding, or just say hi!
-
 
 ## ️ Tech Stack & Tools
 
