@@ -8,18 +8,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
-```yaml
-name: HTClaus
-located_in: Earth 🌍
-current_focus: Building cool projects & learning new tech
-fun_fact: I'm a musician who codes! 🎵
-collaboration: Always open to new opportunities
-help_needed: Pretty much everything - let's learn together!
-ask_me_about: Anything, really! I love good conversations
 
 ## What I'm Up To
 
